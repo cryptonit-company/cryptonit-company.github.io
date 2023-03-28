@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cryptonit Company</title>
+  </head>
+  <body>
+    <h1>Welcome to Cryptonit Company!</h1>
+    <p>We are a company that specializes in creating innovative cryptocurrency solutions.</p>
+    <h2>Our Services</h2>
+    <ul>
+      <li>Crypto wallet development</li>
+      <li>Blockchain consulting</li>
+      <li>Smart contract development</li>
+      <li>Decentralized application (dApp) development</li>
+    </ul>
+    <h2>Contact Us</h2>
+    <p>Want to learn more about our services or get in touch with us? Send us an email at info@cryptonit.com.</p>
+  </body>
+</html>
