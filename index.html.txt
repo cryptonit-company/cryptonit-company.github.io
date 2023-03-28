@@ -1,19 +1,22 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Cryptonit Company</title>
+    <title>Cryptonit Company - Cryptocurrency Mining Operation</title>
   </head>
   <body>
-    <h1>Welcome to Cryptonit Company!</h1>
-    <p>We are a company that specializes in creating innovative cryptocurrency solutions.</p>
-    <h2>Our Services</h2>
-    <ul>
-      <li>Crypto wallet development</li>
-      <li>Blockchain consulting</li>
-      <li>Smart contract development</li>
-      <li>Decentralized application (dApp) development</li>
-    </ul>
-    <h2>Contact Us</h2>
-    <p>Want to learn more about our services or get in touch with us? Send us an email at info@cryptonit.com.</p>
+    <h1>Welcome to Cryptonit Company</h1>
+    <p>We are a cryptocurrency mining operation that specializes in mining Bitcoin, Ethereum, and other popular cryptocurrencies.</p>
+    <p>Our state-of-the-art mining facilities are located in several countries around the world, and we use the latest mining hardware to ensure maximum efficiency and profitability.</p>
+    <h2>Investing in Cryptonit Company</h2>
+    <p>If you are interested in investing in our company, please fill out the form below and we will get back to you with more information:</p>
+    <form action="submit_form.php" method="POST">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name"><br><br>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email"><br><br>
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message"></textarea><br><br>
+      <input type="submit" value="Submit">
+    </form>
   </body>
 </html>
